@@ -72,6 +72,7 @@ Key findings:
 - Heart rate and age were more influential in the MLP than in the Decision Tree
 
 ## Repository Structure
+```
 .
 ├── src/
 │ ├── decisionTree.py
@@ -84,6 +85,7 @@ Key findings:
 │ └── README.md
 ├── requirements.txt
 └── README.md
+```
 
 ## How to Run
 1. Clone the repository
